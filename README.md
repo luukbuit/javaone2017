@@ -1,6 +1,6 @@
 ## Web application security for developers: tooling and best practices
 
-[Presentation](Web application security for developers.pdf) by [Luuk Buit](https://twitter.com/lwkbuit) JavaOne 2017.
+Presentation by [Luuk Buit](https://twitter.com/lwkbuit) JavaOne 2017.
 
 ## Tooling
 
