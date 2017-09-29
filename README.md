@@ -15,10 +15,12 @@ Settings > Advanced > Network > Connection settings > Manual proxy:
 
 Options > Local Proxy > localhost:9876
 
-## Documentation
+## Background
 
 - [OWASP ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
 - [OWASP TOP 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+- [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx)
+- [WAHH](http://mdsec.net/wahh/)
 
 ## Demos
 
